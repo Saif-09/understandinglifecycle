@@ -33,7 +33,7 @@ class ComponentA extends React.Component{
                 )
             })}
         </ul>
-        <ComponentB/></>)
+        </>)
     }
 }
 
